@@ -1,0 +1,23 @@
+@@||localhost:8000/$document
+@@127.0.0.1:5500$document
+@@|https://www.udemy.com/mongodb-the-complete-developers-guide/learn/lecture/11850610|$document
+@@||www.udemy.com/$document
+@@|https://semantic-ui.com/usage/theming.html|$document
+@@||stackblitz.com/$document
+@@||localhost:3000/$document
+jkanime.net##[id="gbdhujz"]
+jkanime.net##[href="http://ethfw0370q.com/srmh3bkw?zudhq=57&refer=http%3A%2F%2Fjkanime.net%2Flog-horizon%2F22%2F&kw=%5B%22log%22%2C%22horizon%22%2C%2222%22%2C%22sub%22%2C%22espa%C3%B1ol%22%2C%22online%22%2C%22gratis%22%5D&key=d1c7a3265358a297229be31dd3c50c81&scrWidth=1536&scrHeight=864&tz=2&ship=&pst=&res=4.31&dev=r&adb=y"]
+jkanime.net##[id="lk95"]
+jkanime.net##[src="https://xat.com/embed/chat.php#id=33399835&&gn=base"]
+animefenix.com##IFRAME[id="b773bad626eb"]
+animefenix.com##IFRAME[id="eea3fd8085d5"]
+animefenix.com##H4[class="rainbow rainbow_text_animated"]
+www.animefenix.com##SECTION[class="section page-home__slider-container"]
+www.animefenix.com##IFRAME[id="382bc470bfc1"]
+http://topvtop.net/*
+http://cdn.www.shglegle.com/*
+https://lp.interwetten.com/*
+https://openload.co/*
+https://hotjar.com/*
+https://k.upguide.xyz/*
+https://es.bongacams.com/*
