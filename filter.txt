@@ -2,6 +2,12 @@
 @@127.0.0.1:5500$document
 @@|https://www.udemy.com/mongodb-the-complete-developers-guide/learn/lecture/11850610|$document
 @@||www.udemy.com/$document
+[Adblock 4.46.0]
+!Version: 0.1
+!Title: Tsukasa Filter
+!Last modified: 06/23/2022
+!Expires: 360 days
+!
 @@|https://semantic-ui.com/usage/theming.html|$document
 @@||stackblitz.com/$document
 @@||localhost:3000/$document
@@ -14,6 +20,7 @@ animefenix.com##IFRAME[id="eea3fd8085d5"]
 animefenix.com##H4[class="rainbow rainbow_text_animated"]
 www.animefenix.com##SECTION[class="section page-home__slider-container"]
 www.animefenix.com##IFRAME[id="382bc470bfc1"]
+||topvtop.net/*
 http://topvtop.net/*
 http://cdn.www.shglegle.com/*
 https://lp.interwetten.com/*
