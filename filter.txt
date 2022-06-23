@@ -26,3 +26,4 @@ https://tech-venturez.com/*
 http://mdaesoragames.yourfun.mobi/*
 http://*.affmoney.*
 https://*.affmoney.*
+http*://or.comedyfactory.*
