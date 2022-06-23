@@ -2,7 +2,7 @@
 ! Version: 
 ! Title: My Personal Filter List
 ! Last modified: 
-! Expires: 7 days (update frequency)
+! Expires:
 ! Homepage: 
 !
 @@||localhost:8000/$document
