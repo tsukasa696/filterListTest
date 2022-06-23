@@ -1,4 +1,4 @@
-[Adblock 4.46.0]
+[Adblock Plus 3.3.0]
 !Version: 0.1
 !Title: Tsukasa Filter
 !Last modified: 06/23/2022
