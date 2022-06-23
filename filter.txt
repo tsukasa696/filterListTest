@@ -1,8 +1,9 @@
-[Adblock Plus 3.3.0]
-!Version: 0.1
-!Title: Tsukasa Filter
-!Last modified: 06/23/2022
-!Expires: 360 days
+[Adblock Plus 2.0]
+! Version: 
+! Title: My Personal Filter List
+! Last modified: 
+! Expires: 7 days (update frequency)
+! Homepage: 
 !
 @@||localhost:8000/$document
 @@127.0.0.1:5500$document
